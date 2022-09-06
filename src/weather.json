@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": 46.9923, "lat": 35.3144 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 308.16,
+    "feels_like": 305.46,
+    "temp_min": 308.16,
+    "temp_max": 308.16,
+    "pressure": 1014,
+    "humidity": 7
+  },
+  "visibility": 10000,
+  "wind": { "speed": 3.09, "deg": 260 },
+  "clouds": { "all": 0 },
+  "dt": 1662456391,
+  "sys": {
+    "type": 1,
+    "id": 7457,
+    "country": "IR",
+    "sunrise": 1662431283,
+    "sunset": 1662477202
+  },
+  "timezone": 16200,
+  "id": 117574,
+  "name": "Sanandaj",
+  "cod": 200
+}
